@@ -5,6 +5,10 @@
 It provides key metrics, visualizations, and insights to help businesses monitor performance and make data-driven decisions.
 
 ---
+## 📸 Dashboard Preview
+![Dashboard Preview](https://github.com/gaurav36122/trend_analysis_revenue-excel-bi/blob/main/Dashboard.png?raw=true)  
+
+---
 
 ## 🗂 Dataset
 The project uses the following columns:
@@ -68,10 +72,7 @@ Interactive visualizations include:
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard Preview](https://github.com/gaurav36122/trend_analysis_revenue-excel-bi/blob/main/Dashboard.png?raw=true)  
 
----
 
 ## 🔗 Repository Structure
 
