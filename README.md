@@ -69,7 +69,7 @@ Interactive visualizations include:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](https://your-image-link-here)  
+![Dashboard Preview](https://github.com/gaurav36122/trend_analysis_revenue-excel-bi/blob/main/Dashboard.png?raw=true)  
 
 ---
 
