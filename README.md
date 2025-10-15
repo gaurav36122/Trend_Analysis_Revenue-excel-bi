@@ -96,7 +96,7 @@ It helps identify trends, top-performing products, and regions while enabling bu
 
 ---
 
-##👤 Author
+👤 Author
 
 Gaurav Singh
 📧 Email: (gaurav36122@gmail.com)
